@@ -1,0 +1,2 @@
+ebx-escalatedlogging-sdk
+Copyright 2023 Echobox
