@@ -2,7 +2,7 @@
 # ebx-escalatedlogging-sdk
 
 Logging is a critical pillar of service observability. When logs are raised in a certain pattern 
-it is often desirable to trigger alerts based off a series of logs being raised. Common tools or 
+it is often desirable to trigger alerts. Common tools or 
 libraries allow alerts to be triggered off a threshold being exceeded or not being reached in a 
 given time period. This library provides classes that allow you to trigger alerts in more 
 complicated scenarios. For example:
