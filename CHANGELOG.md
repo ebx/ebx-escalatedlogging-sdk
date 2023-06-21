@@ -1,6 +1,6 @@
 # ebx-escalatedlogging-sdk Changelog
 
-## 1.0.0 (Jun 1, 2023)
+## 1.0.0 (Jun 21, 2023)
 
-* Initial release
+* Initial release containing EscalationLogger and TimeBasedEscalationTrigger
 
