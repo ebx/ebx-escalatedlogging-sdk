@@ -93,5 +93,4 @@ class EscalationLoggerTest {
   
     verify(action).escalate("This is a test", error);
   }
-  
 }
