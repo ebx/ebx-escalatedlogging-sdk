@@ -4,3 +4,6 @@
 
 * Initial release containing EscalationLogger and TimeBasedEscalationTrigger
 
+## 1.0.2 (Jun 29, 2023)
+
+* Dependency version bumps
